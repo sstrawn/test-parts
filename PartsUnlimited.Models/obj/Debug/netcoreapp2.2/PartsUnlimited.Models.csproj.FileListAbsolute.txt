@@ -1,0 +1,14 @@
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/bin/Debug/netcoreapp2.2/config.json
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/bin/Debug/netcoreapp2.2/PartsUnlimited.Models.deps.json
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/bin/Debug/netcoreapp2.2/PartsUnlimited.Models.runtimeconfig.json
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/bin/Debug/netcoreapp2.2/PartsUnlimited.Models.runtimeconfig.dev.json
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/bin/Debug/netcoreapp2.2/PartsUnlimited.Models.dll
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/bin/Debug/netcoreapp2.2/PartsUnlimited.Models.pdb
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.csproj.AssemblyReference.cache
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.AssemblyInfoInputs.cache
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.AssemblyInfo.cs
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.csproj.CoreCompileInputs.cache
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.dll
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.pdb
+/mnt/e/Development/containers/ms-mechanics/demo1/PartsUnlimited/src/PartsUnlimited.Models/obj/Debug/netcoreapp2.2/PartsUnlimited.Models.genruntimeconfig.cache
